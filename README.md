@@ -8,7 +8,7 @@ See code in [index.html](../blob/master/index.html) and [examples/](../blob/mast
 
 Demo
 ------------
-http://mbredif.github.io/virtual-texturing
+https://itownsresearch.github.io/virtual-texturing/
 
 Issues
 ------------
